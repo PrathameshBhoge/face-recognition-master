@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/mlibwrapper_jai.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/facialrecognition.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/mysql-connector-java-3.0.17-ga-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/Jama-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/face-recognition-master/libs/jai_core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
